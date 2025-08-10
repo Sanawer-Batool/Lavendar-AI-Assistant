@@ -15,4 +15,5 @@ dependencies = [
     "pyaudio>=0.2.14",
     "elevenlabs>=2.9.2",
     "gtts>=2.5.4",
+    "gradio>=5.42.0",
 ]
