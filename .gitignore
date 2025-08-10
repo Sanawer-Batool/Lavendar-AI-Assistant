@@ -12,3 +12,6 @@ wheels/
 
 # Captured images
 sample.jpg
+
+# Captured audio files
+testing_stt.mp3
